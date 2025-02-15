@@ -4,6 +4,11 @@
 
 一个基于 Flask 的 Web 应用程序，用于管理和调度 Python 定时任务。
 
+## 截图
+
+![截图](screenshots/1.png)
+![截图](screenshot/2.png)
+
 ## 功能特点
 
 - 通过 Web 界面管理定时任务
@@ -25,8 +30,8 @@
 1. 克隆仓库：
 
 ```bash
-git clone https://github.com/yourusername/flask-task-scheduler.git
-cd flask-task-scheduler
+git clone https://github.com/maxazure/flask-cron-manager.git
+cd flask-cron-manager
 ```
 
 2. 创建虚拟环境：
