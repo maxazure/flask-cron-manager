@@ -7,7 +7,7 @@
 ## 截图
 
 ![截图](screenshots/1.png)
-![截图](screenshot/2.png)
+![截图](screenshots/2.png)
 
 ## 功能特点
 
